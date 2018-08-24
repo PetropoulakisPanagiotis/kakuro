@@ -1,7 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Kakuro as csp problem 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kakuro_black_box.svg/375px-Kakuro_black_box.svg.png) <br />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kakuro_black_box.svg/375px-Kakuro_black_box.svg.png" width="200" height="200">
 Kakuro.py can solve kakuro puzzles with FC and MAC algorithms. Puzzles are hard-coded but the user can hard-code it's own puzzle.
 In the end of the computations winner algorithm is printed.
 
