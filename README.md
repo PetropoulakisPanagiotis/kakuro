@@ -2,7 +2,7 @@
 # Kakuro as csp problem 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kakuro_black_box.svg/375px-Kakuro_black_box.svg.png" width="200" height="200">
 Kakuro.py can solve kakuro puzzles with FC and MAC algorithms. Puzzles are hard-coded but the user can hard-code it's own puzzle.
-In the end of the computations winner algorithm is printed.
+In the end of the computations winner algorithm is printed. <br />
 
 Note: I only own kakuro.py module and  have use some extra modules from UC Berkeley CS188 Intro to AI -- Course Materials(http://ai.berkeley.edu/home.html)
 
