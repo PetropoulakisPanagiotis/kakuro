@@ -6,6 +6,8 @@ In the end of the computations winner algorithm is printed.
 
 Note: I only own kakuro.py module and  have use some extra modules from UC Berkeley CS188 Intro to AI -- Course Materials(http://ai.berkeley.edu/home.html)
 
+More information about kakuro: https://en.wikipedia.org/wiki/Kakuro
+
 ## Compilation: 
 python3 kakuro.py
 
