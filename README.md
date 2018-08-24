@@ -2,10 +2,10 @@
 # Kakuro as csp problem 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kakuro_black_box.svg/375px-Kakuro_black_box.svg.png) <br />
 
-## Helpful Links: 
-1. http://matlabtricks.com/post-5/3x3-convolution-kernels-with-online-demo
-2. http://setosa.io/ev/image-kernels/
-3. https://docs.gimp.org/en/plug-in-convmatrix.html
+Kakuro.py can solve kakuro puzzles with FC and MAC algorithms. Puzzles are hard-coded but the user can hard-code it's own puzzle.
+In the end of the computations winner alogithm is printed.
+
+Note: I have use code of UC Berkeley CS188 Intro to AI -- Course Materials(http://ai.berkeley.edu/home.html)
 
 ## Compilation: 
 python3 kakuro.py
