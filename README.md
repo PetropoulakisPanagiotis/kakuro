@@ -11,7 +11,9 @@ Note: I only own the kakuro.py module. The other modules are taken from the: <br
 More information about kakuro can be found at https://en.wikipedia.org/wiki/Kakuro.
 
 ## Compilation: 
+```
 python3 kakuro.py
+```
 
 ## Author
 * Petropoulakis Panagiotis petropoulakispanagiotis@gmail.com
