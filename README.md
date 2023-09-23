@@ -8,7 +8,7 @@ Note: I only own the kakuro.py module. The other modules are taken from the: <br
 
 [UC Berkeley CS188 Intro to AI Course](http://ai.berkeley.edu/home.html). 
 
-More information about kakuro can be found at https://en.wikipedia.org/wiki/Kakuro.
+More information about kakuro can be found at: https://en.wikipedia.org/wiki/Kakuro.
 
 ## Compilation: 
 ```
